@@ -40,6 +40,10 @@ public class clase_calculadora implements Serializable{
    {
        
    }
+    public static void resta(clase_calculadora[] resta)
+   {
+       
+   }
     /**
      * @return the num1
      */
