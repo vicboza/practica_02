@@ -50,6 +50,11 @@ public class clase_calculadora implements Serializable{
    {
        
    }
+   
+   public static void fantasma(int num1, int num2)
+   {
+       
+   }
     /**
      * @return the num1
      */
