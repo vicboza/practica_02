@@ -40,7 +40,13 @@ public class clase_calculadora implements Serializable{
    {
        
    }
-    public static void resta(clase_calculadora[] resta)
+   
+   public static void resta(clase_calculadora[] resta)
+   {
+       
+   }
+   
+   public static void multiplica(clase_calculadora[] multiplica)
    {
        
    }
