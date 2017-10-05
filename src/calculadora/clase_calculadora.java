@@ -53,7 +53,8 @@ public class clase_calculadora implements Serializable{
    
    public static void fantasma(int num1, int num2)
    {
-       
+       int result;
+       result=num1*num2;
    }
     /**
      * @return the num1
