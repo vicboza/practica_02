@@ -35,7 +35,11 @@ public class clase_calculadora implements Serializable{
            inicio[i]= new clase_calculadora(0," ",0);
        }
    }
-
+   
+   public static void suma(clase_calculadora[] suma)
+   {
+       
+   }
     /**
      * @return the num1
      */
